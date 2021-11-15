@@ -1,0 +1,47 @@
+table{
+    padding-top: 20pt;
+}
+footer{
+    background-color:  #5c4237;
+    margin-top: 2pt;
+    margin-left: -6pt;
+    margin-bottom: -20pt;
+    padding-top: 8pt;
+    padding-left: 10pt;
+    padding-bottom: 12.5pt;
+    color: ivory;
+    text-align: center;
+}
+.cidade{
+    background-color:  #5c4237;
+    margin-top: 71pt;
+    margin-left: -6pt;
+    margin-bottom: -20pt;
+    padding-top: 8pt;
+    padding-left: 10pt;
+    padding-bottom: 12.5pt;
+    color: ivory;
+    text-align: center;
+}
+.esportes{
+    background-color:  #5c4237;
+    margin-top: 144.5pt;
+    margin-left: -6pt;
+    margin-bottom: -20pt;
+    padding-top: 8pt;
+    padding-left: 10pt;
+    padding-bottom: 12.5pt;
+    color: ivory;
+    text-align: center;
+}
+.evento{
+    background-color:  #5c4237;
+    margin-left: -6pt;
+    margin-bottom: -20pt;
+    padding-top: 8pt;
+    padding-left: 10pt;
+    padding-bottom: 12.5pt;
+    color: ivory;
+    text-align: center;
+}
+
